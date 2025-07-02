@@ -19,6 +19,9 @@ I’m passionate about building, automating, and solving real-world problems wit
 ### [Line-Follower-Robot-Codes](https://github.com/avro1199/Line-Follower-Robot-Codes)
 A comprehensive collection of code, theory, and documentation for Line Follower Robots (LFR) on Arduino Nano, ESP32, and STM32. Perfect for robotics enthusiasts!
 
+### [transfer-learning-mobilenetv2](https://github.com/avro1199/transfer-learning-mobilenetv2)
+A comprehensive Python repository for accelerated transfer learning using TensorFlow, Keras, and MobileNetV2. Includes scripts for data loading, training, evaluation, confusion matrix visualization, and k-fold validation—perfect for rapid prototyping and research in image classification.
+
 ### [Sokoban-Solver-Python](https://github.com/avro1199/Sokoban-Solver-Python)
 Python-based Sokoban solver using A* search, state generation, deadlock detection, and a visual GUI. Experiment with heuristics and visualize solutions.
 
