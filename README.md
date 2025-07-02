@@ -41,8 +41,10 @@ MATLAB scripts for control system simulations: transfer function modeling, PID c
 ## 📫 Get in Touch
 
 - 📧 Email: avro1199@gmail.com  
-- 📱 Mobile: 01705159351 / 01521791137  
-- [LinkedIn](https://www.linkedin.com/in/rjavro)  
+- 📱 Mobile: +8801705159351
+- 📱 Mobile: +8801521791137  
+- [LinkedIn](https://www.linkedin.com/in/rjavro)
+- [Telegram](https://t.me/rj_avro)
 - [Facebook](https://www.facebook.com/rjAvro1199/)
 
 ---
